@@ -1,4 +1,4 @@
-[gd_scene load_steps=9 format=3 uid="uid://ds2fembkyrnxf"]
+[gd_scene load_steps=9 format=3 uid="uid://bg4gei6mvc27h"]
 
 [ext_resource type="Script" path="res://Scene.gd" id="1_om3nh"]
 [ext_resource type="Texture2D" uid="uid://51qm1pieyylm" path="res://resources/Snake.png" id="2_i8ewy"]
@@ -11,6 +11,7 @@
 [sub_resource type="Theme" id="Theme_k0dlb"]
 
 [sub_resource type="SystemFont" id="SystemFont_lx07a"]
+subpixel_positioning = 0
 
 [sub_resource type="Theme" id="Theme_868ic"]
 default_font = SubResource("SystemFont_lx07a")

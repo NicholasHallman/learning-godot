@@ -13,6 +13,7 @@ config_version=5
 config/name="Snake"
 run/main_scene="res://scene.tscn"
 config/features=PackedStringArray("4.1", "GL Compatibility")
+boot_splash/bg_color=Color(0, 0, 0, 1)
 config/icon="res://icon.svg"
 
 [display]
@@ -28,3 +29,4 @@ project/assembly_name="Snake"
 
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
+environment/defaults/default_clear_color=Color(0, 0, 0, 1)
